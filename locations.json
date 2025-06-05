@@ -3,7 +3,7 @@
         {
             "name": "Генштаб Беллато",
             "description": "Главный штаб расы Беллато. Здесь находятся основные силы армии и командование.",
-            "iconPath": "locations/bellato_hq.png",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Location/bellato_hq.png",
             "recommendedLevel": 1,
             "mobs": [
                 "Офицер Беллато",
@@ -19,7 +19,7 @@
         {
             "name": "Генштаб Кора",
             "description": "Центр управления расы Кора. Место, где принимаются все важные решения.",
-            "iconPath": "locations/cora_hq.png",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Location/cora_hq.png",
             "recommendedLevel": 1,
             "mobs": [
                 "Страж Кора",

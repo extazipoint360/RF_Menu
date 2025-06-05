@@ -24,7 +24,7 @@
         },
         {
             "name": "Механический страж",
-            "iconPath": "Wiki/Monster/00001.png",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Monster/00001.png",
             "location": {
                 "name": "Фабрика роботов",
                 "coordinates": "X: 800, Y: 600"
@@ -34,7 +34,7 @@
                     "name": "Энергетическое ядро",
                     "description": "Источник питания механических существ. Излучает стабильную энергию.",
                     "category": "Ресурсы",
-                    "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Resource/golden_blade_particle.png",
+                    "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Resource/power_crystal.png",
                     "stats": {
                         "type": "MOB_DROP",
                         "itemClass": "Компонент",
