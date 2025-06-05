@@ -1,6 +1,170 @@
 {
 "weapons": [
     {
+      "name": "Двойные Мечи Восставшего",
+      "description": "-",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_187.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "102",
+        "weaponLevel": 65,
+        "skillLevel": 1,
+        "moveSpeed": 1.27875,
+        "minDamage": 730,
+        "maxDamage": 1403,
+        "properties": [
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
+        ],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": -1
+        }
+      }
+    },
+    {
+      "name": "Лук Восставшего",
+      "description": "-",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_122.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "271",
+        "weaponLevel": 65,
+        "skillLevel": 1,
+        "moveSpeed": 1.286256,
+        "minDamage": 583,
+        "maxDamage": 1179,
+        "properties": [
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
+        ],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": -1
+        }
+      }
+    },
+    {
+      "name": "Посох Восставшего",
+      "description": "-",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_89.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "269",
+        "weaponLevel": 65,
+        "skillLevel": 1,
+        "moveSpeed": 1.286256,
+        "minDamage": 64,
+        "maxDamage": 90,
+        "properties": [
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
+        ],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": -1
+        }
+      }
+    },
+    {
+      "name": "Ракетомет Восставшего",
+      "description": "-",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_154.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "114",
+        "weaponLevel": 65,
+        "skillLevel": 1,
+        "moveSpeed": 1.270409,
+        "minDamage": 720,
+        "maxDamage": 1570,
+        "properties": [
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
+        ],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": -1
+        }
+      }
+    },
+    {
       "name": "Боевая Искра",
       "description": "-",
       "category": "Оружие",
@@ -9,20 +173,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "103",
-        "requiredLevel": 9,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "0"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.260217,
+        "minDamage": 815,
+        "maxDamage": 1138,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,1"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -42,20 +214,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "101",
-        "requiredLevel": 9,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "1"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.27875,
+        "minDamage": 1147,
+        "maxDamage": 1611,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,1"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -75,20 +255,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "107",
-        "requiredLevel": 9,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "2"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.27875,
+        "minDamage": 1108,
+        "maxDamage": 1520,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,1"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -108,20 +296,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "267",
-        "requiredLevel": 9,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "3"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.27875,
+        "minDamage": 1160,
+        "maxDamage": 1486,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,1"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -141,20 +337,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
-        "requiredLevel": 9,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "9"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1,
+        "minDamage": 66,
+        "maxDamage": 88,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,1"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -174,20 +378,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "270",
-        "requiredLevel": 9,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "4"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.27875,
+        "minDamage": 912,
+        "maxDamage": 1753,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,1"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -207,20 +419,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "110",
-        "requiredLevel": 9,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "A",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "5"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.27875,
+        "minDamage": 742,
+        "maxDamage": 1476,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,1"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -240,20 +460,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "116",
-        "requiredLevel": 9,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "G",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "6"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.27875,
+        "minDamage": 713,
+        "maxDamage": 1477,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,1"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -273,20 +501,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
-        "requiredLevel": 9,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "I",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "7"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.27875,
+        "minDamage": 885,
+        "maxDamage": 1962,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,1"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -306,20 +542,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "120",
-        "requiredLevel": 9,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "L",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "11"
+        "weaponLevel": 65,
+        "skillLevel": -1,
+        "moveSpeed": 1.286256,
+        "minDamage": 742,
+        "maxDamage": 1476,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,1"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -339,20 +583,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "105",
-        "requiredLevel": 9,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "8"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.260217,
+        "minDamage": 770,
+        "maxDamage": 1240,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,1"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -372,20 +624,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "103",
-        "requiredLevel": 6,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "0"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.267615,
+        "minDamage": 1180,
+        "maxDamage": 1554,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,15"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -405,20 +665,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "101",
-        "requiredLevel": 6,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "1"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 1699,
+        "maxDamage": 2153,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,15"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -438,20 +706,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "107",
-        "requiredLevel": 6,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "2"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 1584,
+        "maxDamage": 2068,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,15"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -471,20 +747,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "267",
-        "requiredLevel": 6,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "3"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 1584,
+        "maxDamage": 2068,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,15"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -504,20 +788,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
-        "requiredLevel": 6,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "9"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1,
+        "minDamage": 87,
+        "maxDamage": 117,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,15"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -537,20 +829,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "270",
-        "requiredLevel": 6,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "4"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 1484,
+        "maxDamage": 2280,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,15"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -570,20 +870,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "271",
-        "requiredLevel": 6,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "C",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "5"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 1025,
+        "maxDamage": 2044,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,15"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -603,20 +911,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "116",
-        "requiredLevel": 6,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "G",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "6"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 1021,
+        "maxDamage": 2045,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,15"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -636,20 +952,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
-        "requiredLevel": 6,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "J",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "7"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 1025,
+        "maxDamage": 2044,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,15"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -669,20 +993,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "120",
-        "requiredLevel": 6,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "O",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "11"
+        "weaponLevel": 65,
+        "skillLevel": -1,
+        "moveSpeed": 1.286256,
+        "minDamage": 1265,
+        "maxDamage": 2714,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,15"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -702,20 +1034,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "105",
-        "requiredLevel": 6,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "8"
+        "weaponLevel": 65,
+        "skillLevel": 99,
+        "moveSpeed": 1.267615,
+        "minDamage": 1078,
+        "maxDamage": 1717,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,15"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -735,20 +1075,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "103",
-        "requiredLevel": 4,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "0"
+        "weaponLevel": 70,
+        "skillLevel": 99,
+        "moveSpeed": 1.267615,
+        "minDamage": 1559,
+        "maxDamage": 2036,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,2"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -768,20 +1116,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "101",
-        "requiredLevel": 4,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "1"
+        "weaponLevel": 70,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 2244,
+        "maxDamage": 2806,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,2"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -801,20 +1157,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "107",
-        "requiredLevel": 4,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "2"
+        "weaponLevel": 70,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 2070,
+        "maxDamage": 2714,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,2"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -834,20 +1198,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "267",
-        "requiredLevel": 4,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "3"
+        "weaponLevel": 70,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 2070,
+        "maxDamage": 2714,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,2"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -867,20 +1239,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
-        "requiredLevel": 4,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "9"
+        "weaponLevel": 70,
+        "skillLevel": 99,
+        "moveSpeed": 1,
+        "minDamage": 86,
+        "maxDamage": 118,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,2"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -900,20 +1280,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "270",
-        "requiredLevel": 4,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "4"
+        "weaponLevel": 70,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 1960,
+        "maxDamage": 2980,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,2"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -933,20 +1321,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "271",
-        "requiredLevel": 4,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "C",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "5"
+        "weaponLevel": 70,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 1373,
+        "maxDamage": 2673,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,2"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -966,20 +1362,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "116",
-        "requiredLevel": 4,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "G",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "6"
+        "weaponLevel": 70,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 1348,
+        "maxDamage": 2682,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,2"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -999,20 +1403,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
-        "requiredLevel": 4,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "J",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "7"
+        "weaponLevel": 70,
+        "skillLevel": 99,
+        "moveSpeed": 1.286256,
+        "minDamage": 1538,
+        "maxDamage": 2380,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,2"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -1032,20 +1444,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "120",
-        "requiredLevel": 4,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
-        "element": "O",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "11"
+        "weaponLevel": 70,
+        "skillLevel": -1,
+        "moveSpeed": 1.286256,
+        "minDamage": 1730,
+        "maxDamage": 3540,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,2"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -1065,20 +1485,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "105",
-        "requiredLevel": 4,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "8"
+        "weaponLevel": 70,
+        "skillLevel": 99,
+        "moveSpeed": 1.267615,
+        "minDamage": 1217,
+        "maxDamage": 1930,
+        "properties": [
+          {
+            "name": "6",
+            "value": "0,2"
+          },
+          {
+            "name": "12",
+            "value": "1"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
@@ -1098,20 +1526,28 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "108",
-        "requiredLevel": 9,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
-        "element": "-1",
-        "effects": [
-          "D"
-        ],
-        "upgrades": [
-          "8"
+        "weaponLevel": 65,
+        "skillLevel": 1,
+        "moveSpeed": 1.267615,
+        "minDamage": 1,
+        "maxDamage": 2,
+        "properties": [
+          {
+            "name": "12",
+            "value": "0,5"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "0",
+            "value": "0"
+          }
         ],
         "restrictions": {
           "canSell": true,
