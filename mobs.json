@@ -4,7 +4,7 @@
             "name": "Фем",
             "iconPath": "Wiki/Monster/00000.png",
             "location": {
-                "name": "Темные пещеры",
+                "name": "Ген-Штаб",
                 "coordinates": "X: 1250, Y: 850"
             },
             "drops": [
@@ -17,7 +17,7 @@
                     "stats": {
                         "type": "MOB_DROP",
                         "itemClass": "Редкий ресурс",
-                        "dropChance": "5%"
+                        "dropChance": "50%"
                     }
                 }
             ]
