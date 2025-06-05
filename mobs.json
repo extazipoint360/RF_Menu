@@ -2,7 +2,7 @@
     "mobs": [
         {
             "name": "Фем",
-            "iconPath": "Wiki/Monster/00000.png",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Monster/00000.png",
             "location": {
                 "name": "Ген-Штаб",
                 "coordinates": "X: 1250, Y: 850"
@@ -13,7 +13,7 @@
                     "description": "Редкий материал, добываемый только с особых монстров. Необходим для создания легендарного оружия.",
                     "category": "Ресурсы",
                     "isUnlocked": true,
-                    "iconPath": "Wiki/Resource/golden_blade_particle.png",
+                    "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Resource/golden_blade_particle.png",
                     "stats": {
                         "type": "MOB_DROP",
                         "itemClass": "Редкий ресурс",
@@ -34,7 +34,7 @@
                     "name": "Энергетическое ядро",
                     "description": "Источник питания механических существ. Излучает стабильную энергию.",
                     "category": "Ресурсы",
-                    "iconPath": "Wiki/Resource/power_crystal.png",
+                    "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Resource/golden_blade_particle.png",
                     "stats": {
                         "type": "MOB_DROP",
                         "itemClass": "Компонент",

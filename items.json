@@ -5,7 +5,7 @@
             "description": "Легендарное оружие, выкованное в горниле древней кузницы",
             "category": "Оружие",
             "isUnlocked": true,
-            "iconPath": "Wiki/Weapon/vengeance_blade.png",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/battle_spark.png",
             "stats": {
                 "type": "EQUIPMENT",
                 "itemClass": "Меч",
@@ -39,7 +39,7 @@
             "description": "Тяжелая броня из сверхпрочных материалов",
             "category": "Броня",
             "isUnlocked": true,
-            "iconPath": "Wiki/Armor/titan_armor.png",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/battle_spark.png",
             "stats": {
                 "type": "EQUIPMENT",
                 "itemClass": "Тяжелая броня",
