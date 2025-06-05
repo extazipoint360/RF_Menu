@@ -1,25 +1,25 @@
 {
 "weapons": [
     {
-      "name": "Боевая Искра",
+      "name": "Двойные Мечи Восставшего",
       "description": "-",
       "category": "Оружие",
       "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_11.png",
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_187.png",
       "stats": {
         "type": "EQUIPMENT",
-        "itemClass": "103",
-        "requiredLevel": 9,
+        "itemClass": "102",
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
+        "requiredSkill": "1",
+        "durability": "-",
+        "minDamage": 730,
+        "maxDamage": 1403,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "12"
         ],
         "upgrades": [
           "0"
@@ -29,7 +29,139 @@
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
+        }
+      }
+    },
+    {
+      "name": "Лук Восставшего",
+      "description": "-",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_122.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "271",
+        "requiredLevel": 65,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "1",
+        "durability": "-",
+        "minDamage": 583,
+        "maxDamage": 1179,
+        "magicDamage": 0,
+        "element": "A",
+        "effects": [
+          "12"
+        ],
+        "upgrades": [
+          "0"
+        ],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 4087
+        }
+      }
+    },
+    {
+      "name": "Посох Восставшего",
+      "description": "-",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_89.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "269",
+        "requiredLevel": 65,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "1",
+        "durability": "-",
+        "minDamage": 64,
+        "maxDamage": 90,
+        "magicDamage": 0,
+        "element": "-1",
+        "effects": [
+          "12"
+        ],
+        "upgrades": [
+          "0"
+        ],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 4087
+        }
+      }
+    },
+    {
+      "name": "Ракетомет Восставшего",
+      "description": "-",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_154.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "114",
+        "requiredLevel": 65,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "1",
+        "durability": "-",
+        "minDamage": 720,
+        "maxDamage": 1570,
+        "magicDamage": 0,
+        "element": "I",
+        "effects": [
+          "12"
+        ],
+        "upgrades": [
+          "0"
+        ],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 4087
+        }
+      }
+    },
+    {
+      "name": "Боевая Искра",
+      "description": "-",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_11.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "103",
+        "requiredLevel": 65,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 815,
+        "maxDamage": 1138,
+        "magicDamage": 0,
+        "element": "-1",
+        "effects": [
+          "6"
+        ],
+        "upgrades": [
+          "7"
+        ],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 4087
         }
       }
     },
@@ -42,27 +174,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "101",
-        "requiredLevel": 9,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1147,
+        "maxDamage": 1611,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "1"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -75,27 +207,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "107",
-        "requiredLevel": 9,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1108,
+        "maxDamage": 1520,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "2"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -108,27 +240,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "267",
-        "requiredLevel": 9,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1160,
+        "maxDamage": 1486,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "3"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -141,27 +273,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
-        "requiredLevel": 9,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 66,
+        "maxDamage": 88,
+        "magicDamage": 1,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "9"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -174,27 +306,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "270",
-        "requiredLevel": 9,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 912,
+        "maxDamage": 1753,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "4"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -207,27 +339,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "110",
-        "requiredLevel": 9,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 742,
+        "maxDamage": 1476,
+        "magicDamage": 0,
         "element": "A",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "5"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -240,27 +372,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "116",
-        "requiredLevel": 9,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 713,
+        "maxDamage": 1477,
+        "magicDamage": 0,
         "element": "G",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "6"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -273,17 +405,17 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
-        "requiredLevel": 9,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 885,
+        "maxDamage": 1962,
+        "magicDamage": 0,
         "element": "I",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
           "7"
@@ -293,7 +425,7 @@
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -306,27 +438,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "120",
-        "requiredLevel": 9,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
         "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "durability": "-",
+        "minDamage": 742,
+        "maxDamage": 1476,
+        "magicDamage": 0,
         "element": "L",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "11"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -339,27 +471,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "105",
-        "requiredLevel": 9,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 770,
+        "maxDamage": 1240,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "8"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -372,27 +504,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "103",
-        "requiredLevel": 6,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1180,
+        "maxDamage": 1554,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "0"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -405,27 +537,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "101",
-        "requiredLevel": 6,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1699,
+        "maxDamage": 2153,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "1"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -438,27 +570,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "107",
-        "requiredLevel": 6,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1584,
+        "maxDamage": 2068,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "2"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -471,27 +603,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "267",
-        "requiredLevel": 6,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1584,
+        "maxDamage": 2068,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "3"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -504,27 +636,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
-        "requiredLevel": 6,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 87,
+        "maxDamage": 117,
+        "magicDamage": 1,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "9"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -537,27 +669,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "270",
-        "requiredLevel": 6,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1484,
+        "maxDamage": 2280,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "4"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -570,27 +702,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "271",
-        "requiredLevel": 6,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1025,
+        "maxDamage": 2044,
+        "magicDamage": 0,
         "element": "C",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "5"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -603,27 +735,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "116",
-        "requiredLevel": 6,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1021,
+        "maxDamage": 2045,
+        "magicDamage": 0,
         "element": "G",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "6"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -636,17 +768,17 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
-        "requiredLevel": 6,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1025,
+        "maxDamage": 2044,
+        "magicDamage": 0,
         "element": "J",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
           "7"
@@ -656,7 +788,7 @@
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -669,27 +801,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "120",
-        "requiredLevel": 6,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
         "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "durability": "-",
+        "minDamage": 1265,
+        "maxDamage": 2714,
+        "magicDamage": 0,
         "element": "O",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "11"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -702,27 +834,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "105",
-        "requiredLevel": 6,
+        "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1078,
+        "maxDamage": 1717,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "8"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -735,27 +867,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "103",
-        "requiredLevel": 4,
+        "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1559,
+        "maxDamage": 2036,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "0"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -768,27 +900,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "101",
-        "requiredLevel": 4,
+        "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 2244,
+        "maxDamage": 2806,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "1"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -801,27 +933,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "107",
-        "requiredLevel": 4,
+        "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 2070,
+        "maxDamage": 2714,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "2"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -834,27 +966,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "267",
-        "requiredLevel": 4,
+        "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 2070,
+        "maxDamage": 2714,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "3"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -867,27 +999,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
-        "requiredLevel": 4,
+        "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 86,
+        "maxDamage": 118,
+        "magicDamage": 1,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "9"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -900,27 +1032,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "270",
-        "requiredLevel": 4,
+        "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1960,
+        "maxDamage": 2980,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "4"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -933,27 +1065,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "271",
-        "requiredLevel": 4,
+        "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1373,
+        "maxDamage": 2673,
+        "magicDamage": 0,
         "element": "C",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "5"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -966,27 +1098,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "116",
-        "requiredLevel": 4,
+        "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1348,
+        "maxDamage": 2682,
+        "magicDamage": 0,
         "element": "G",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "6"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -999,17 +1131,17 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
-        "requiredLevel": 4,
+        "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1538,
+        "maxDamage": 2380,
+        "magicDamage": 0,
         "element": "J",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
           "7"
@@ -1019,7 +1151,7 @@
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -1032,27 +1164,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "120",
-        "requiredLevel": 4,
+        "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
         "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 100,
+        "durability": "-",
+        "minDamage": 1730,
+        "maxDamage": 3540,
+        "magicDamage": 0,
         "element": "O",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "11"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -1065,27 +1197,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "105",
-        "requiredLevel": 4,
+        "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "-1",
-        "durability": "100/100",
-        "minDamage": 0,
-        "maxDamage": 0,
-        "magicDamage": 8,
+        "requiredSkill": "99",
+        "durability": "-",
+        "minDamage": 1217,
+        "maxDamage": 1930,
+        "magicDamage": 0,
         "element": "-1",
         "effects": [
-          "D"
+          "6"
         ],
         "upgrades": [
-          "8"
+          "7"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     },
@@ -1098,35 +1230,27 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "108",
-        "weaponLevel": 65,
-        "skillLevel": 1,
-        "moveSpeed": 1.267615,
+        "requiredLevel": 65,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "1",
+        "durability": "-",
         "minDamage": 1,
         "maxDamage": 2,
-        "properties": [
-          {
-            "name": "12",
-            "value": "0,5"
-          },
-          {
-            "name": "0",
-            "value": "0"
-          },
-          {
-            "name": "0",
-            "value": "0"
-          },
-          {
-            "name": "0",
-            "value": "0"
-          }
+        "magicDamage": 0,
+        "element": "-1",
+        "effects": [
+          "12"
+        ],
+        "upgrades": [
+          "0"
         ],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": -1
+          "storagePrice": 4087
         }
       }
     }
