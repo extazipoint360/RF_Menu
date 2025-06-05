@@ -5,7 +5,7 @@
             "description": "Легендарное оружие, выкованное в горниле древней кузницы",
             "category": "Оружие",
             "isUnlocked": true,
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_89.png",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_32.png",
             "stats": {
                 "type": "EQUIPMENT",
                 "itemClass": "Меч",
@@ -37,7 +37,7 @@
             "description": "Огненный меч, способный прожигать броню врагов",
             "category": "Оружие",
             "isUnlocked": true,
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_90.png",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_249.png",
             "stats": {
                 "type": "EQUIPMENT",
                 "itemClass": "Меч",
@@ -69,7 +69,7 @@
             "description": "Энергетическая винтовка, замораживающая врагов",
             "category": "Оружие",
             "isUnlocked": true,
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_91.png",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_203.png",
             "stats": {
                 "type": "EQUIPMENT",
                 "itemClass": "Винтовка",
@@ -101,7 +101,7 @@
             "description": "Молот, наполненный силой молний",
             "category": "Оружие",
             "isUnlocked": true,
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_92.png",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_212.png",
             "stats": {
                 "type": "EQUIPMENT",
                 "itemClass": "Молот",
@@ -133,7 +133,7 @@
             "description": "Кинжал, созданный из сгустка тьмы",
             "category": "Оружие",
             "isUnlocked": true,
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_93.png",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_190.png",
             "stats": {
                 "type": "EQUIPMENT",
                 "itemClass": "Кинжал",
