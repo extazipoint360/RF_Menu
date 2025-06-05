@@ -32,44 +32,71 @@
                 }
             }
         },
-  {
-    "name": "\u0420\u0435\u0434\u043A\u0438\u0439 \u041C\u0435\u0442\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u041D\u043E\u0436",
-    "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_167.png",
-    "category": "\u041E\u0440\u0443\u0436\u0438\u0435",
-    "isUnlocked": true,
-    "stats": {
-      "itemClass": "\u041E\u0440\u0443\u0436\u0438\u0435",
-      "requiredLevel": 1,
-      "equipSlot": "\u041F\u0440\u0430\u0432\u0430\u044F \u0440\u0443\u043A\u0430",
-      "race": "\u0412\u0441\u0435",
-      "requiredSkill": "\u041D\u0435\u0442",
-      "durability": "100/100",
-      "minDamage": 10,
-      "maxDamage": 20,
-      "magicDamage": 0,
-      "element": "\u041D\u0435\u0442",
-      "effects": [],
-      "upgrades": [],
-      "damage": 100,
-      "accuracy": 80,
-      "recoil": 70,
-      "mobility": 60,
-      "range": 75,
-      "fireRate": 65
-    },
-    "restrictions": {
-      "minLevel": 1,
-      "isUnique": false,
-      "classes": [
-        "All"
-      ],
-      "canSell": true,
-      "canTrade": true,
-      "canDrop": true,
-      "canBank": true,
-      "storagePrice": 100
-    }
-  }
+		        {
+            "name": "Клинок Возмездия",
+            "description": "Легендарное оружие, выкованное в горниле древней кузницы",
+            "category": "Оружие",
+            "isUnlocked": true,
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/vengeance_blade.png",
+            "stats": {
+                "type": "EQUIPMENT",
+                "itemClass": "Меч",
+                "requiredLevel": 75,
+                "equipSlot": "Правая Рука",
+                "race": "Все расы",
+                "requiredSkill": "Ближний Навык ГМ",
+                "durability": "100/100",
+                "minDamage": 2100,
+                "maxDamage": 2800,
+                "magicDamage": 150,
+                "element": "Тьма",
+                "effects": [
+                    "25% увелич. всех атакующих способностей",
+                    "2.50 увелич. скорость передвижения"
+                ],
+                "upgrades": ["Шанс критического удара +15%"],
+                "restrictions": {
+                    "canSell": true,
+                    "canTrade": true,
+                    "canDrop": true,
+                    "canBank": true,
+                    "storagePrice": 5000
+                }
+            }
+        },
+		        {
+            "name": "Клинок Возмездия",
+            "description": "Легендарное оружие, выкованное в горниле древней кузницы",
+            "category": "Оружие",
+            "isUnlocked": true,
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/vengeance_blade.png",
+            "stats": {
+                "type": "EQUIPMENT",
+                "itemClass": "Меч",
+                "requiredLevel": 75,
+                "equipSlot": "Правая Рука",
+                "race": "Все расы",
+                "requiredSkill": "Ближний Навык ГМ",
+                "durability": "100/100",
+                "minDamage": 2100,
+                "maxDamage": 2800,
+                "magicDamage": 150,
+                "element": "Тьма",
+                "effects": [
+                    "25% увелич. всех атакующих способностей",
+                    "2.50 увелич. скорость передвижения"
+                ],
+                "upgrades": ["Шанс критического удара +15%"],
+                "restrictions": {
+                    "canSell": true,
+                    "canTrade": true,
+                    "canDrop": true,
+                    "canBank": true,
+                    "storagePrice": 5000
+                }
+            }
+        }
+
     ],
     "armor": [
         {
