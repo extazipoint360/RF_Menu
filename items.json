@@ -1,0 +1,65 @@
+{
+    "weapons": [
+        {
+            "name": "Клинок Возмездия",
+            "description": "Легендарное оружие, выкованное в горниле древней кузницы",
+            "category": "Оружие",
+            "isUnlocked": true,
+            "iconPath": "Wiki/Weapon/vengeance_blade.png",
+            "stats": {
+                "type": "EQUIPMENT",
+                "itemClass": "Меч",
+                "requiredLevel": 75,
+                "equipSlot": "Правая Рука",
+                "race": "Все расы",
+                "requiredSkill": "Ближний Навык ГМ",
+                "durability": "100/100",
+                "minDamage": 2100,
+                "maxDamage": 2800,
+                "magicDamage": 150,
+                "element": "Тьма",
+                "effects": [
+                    "25% увелич. всех атакующих способностей",
+                    "2.50 увелич. скорость передвижения"
+                ],
+                "upgrades": ["Шанс критического удара +15%"],
+                "restrictions": {
+                    "canSell": true,
+                    "canTrade": true,
+                    "canDrop": true,
+                    "canBank": true,
+                    "storagePrice": 5000
+                }
+            }
+        }
+    ],
+    "armor": [
+        {
+            "name": "Доспех Титана",
+            "description": "Тяжелая броня из сверхпрочных материалов",
+            "category": "Броня",
+            "isUnlocked": true,
+            "iconPath": "Wiki/Armor/titan_armor.png",
+            "stats": {
+                "type": "EQUIPMENT",
+                "itemClass": "Тяжелая броня",
+                "requiredLevel": 70,
+                "equipSlot": "Тело",
+                "race": "Акретия",
+                "durability": "150/150",
+                "effects": [
+                    "Защита +350",
+                    "Сопротивление стихиям +20"
+                ],
+                "upgrades": ["Отражение урона +5%"],
+                "restrictions": {
+                    "canSell": true,
+                    "canTrade": true,
+                    "canDrop": true,
+                    "canBank": true,
+                    "storagePrice": 4500
+                }
+            }
+        }
+    ]
+} 
