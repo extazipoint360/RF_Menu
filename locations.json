@@ -1,35 +1,100 @@
 {
     "locations": [
         {
-            "name": "Генштаб Беллато",
-            "description": "Главный штаб расы Беллато. Здесь находятся основные силы армии и командование.",
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Location/bellato_hq.png",
-            "recommendedLevel": 1,
-            "mobs": [
-                "Офицер Беллато",
-                "Механический страж",
-                "Тренировочный дроид"
+            "name": "Темный Лес",
+            "description": "Древний лес, полный опасных существ и ценных ресурсов",
+            "iconPath": "Wiki/Maps/dark_forest.png",
+            "recommendedLevel": 5,
+            "mobPoints": [
+                {
+                    "x": 0.3,
+                    "y": 0.4,
+                    "mob": {
+                        "name": "Лесной Волк",
+                        "iconPath": "Wiki/Mobs/forest_wolf.png",
+                        "drops": [
+                            {
+                                "name": "Волчья Шкура",
+                                "description": "Шкура лесного волка",
+                                "category": "Ресурсы",
+                                "iconPath": "Wiki/Items/wolf_pelt.png",
+                                "stats": {
+                                    "itemClass": "Материал",
+                                    "dropChance": "75%"
+                                }
+                            },
+                            {
+                                "name": "Клык Волка",
+                                "description": "Острый клык лесного волка",
+                                "category": "Ресурсы",
+                                "iconPath": "Wiki/Items/wolf_fang.png",
+                                "stats": {
+                                    "itemClass": "Материал",
+                                    "dropChance": "25%"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "x": 0.7,
+                    "y": 0.6,
+                    "mob": {
+                        "name": "Древний Медведь",
+                        "iconPath": "Wiki/Mobs/ancient_bear.png",
+                        "drops": [
+                            {
+                                "name": "Медвежья Шкура",
+                                "description": "Толстая шкура древнего медведя",
+                                "category": "Ресурсы",
+                                "iconPath": "Wiki/Items/bear_pelt.png",
+                                "stats": {
+                                    "itemClass": "Материал",
+                                    "dropChance": "90%"
+                                }
+                            }
+                        ]
+                    }
+                }
             ],
             "resources": [
-                "Чертежи Беллато",
-                "Силовые элементы",
-                "Микросхемы"
+                "Железная руда",
+                "Древесина",
+                "Лечебные травы",
+                "Грибы"
             ]
         },
         {
-            "name": "Генштаб Кора",
-            "description": "Центр управления расы Кора. Место, где принимаются все важные решения.",
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Location/cora_hq.png",
-            "recommendedLevel": 1,
-            "mobs": [
-                "Страж Кора",
-                "Жрец Кора",
-                "Боевой голем"
+            "name": "Пещеры Отчаяния",
+            "description": "Глубокие пещеры с редкими минералами и опасными существами",
+            "iconPath": "Wiki/Maps/despair_caves.png",
+            "recommendedLevel": 15,
+            "mobPoints": [
+                {
+                    "x": 0.4,
+                    "y": 0.5,
+                    "mob": {
+                        "name": "Пещерный Паук",
+                        "iconPath": "Wiki/Mobs/cave_spider.png",
+                        "drops": [
+                            {
+                                "name": "Паучий Шелк",
+                                "description": "Прочный шелк пещерного паука",
+                                "category": "Ресурсы",
+                                "iconPath": "Wiki/Items/spider_silk.png",
+                                "stats": {
+                                    "itemClass": "Материал",
+                                    "dropChance": "60%"
+                                }
+                            }
+                        ]
+                    }
+                }
             ],
             "resources": [
-                "Магические кристаллы",
-                "Священные свитки",
-                "Эфирная пыль"
+                "Мифрил",
+                "Кристаллы маны",
+                "Светящиеся грибы"
             ]
         }
     ]
