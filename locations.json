@@ -63,55 +63,5 @@
                 "Лечебные травы",
                 "Грибы"
             ]
-        },
-        {
-            "name": "Пещеры Отчаяния",
-            "description": "Глубокие пещеры с редкими минералами и опасными существами",
-            "iconPath": "Wiki/Maps/despair_caves.png",
-            "recommendedLevel": 15,
-            "mobPoints": [
-                {
-                    "x": 0.4,
-                    "y": 0.5,
-                    "mob": {
-                        "name": "Пещерный Паук",
-                        "iconPath": "Wiki/Mobs/cave_spider.png",
-                        "drops": [
-                            {
-                                "name": "Паучий Шелк",
-                                "description": "Прочный шелк пещерного паука",
-                                "category": "Ресурсы",
-                                "iconPath": "Wiki/Items/spider_silk.png",
-                                "stats": {
-                                    "itemClass": "Материал",
-                                    "dropChance": "60%"
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "resources": [
-                "Мифрил",
-                "Кристаллы маны",
-                "Светящиеся грибы"
-            ]
-        },
-        {
-            "name": "Генштаб Акретия",
-            "description": "Центр управления расы Кора. Место, где принимаются все важные решения.",
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Location/accretia_hq.png",
-            "recommendedLevel": 1,
-            "mobs": [
-                "Страж Кора",
-                "Жрец Кора",
-                "Боевой голем"
-            ],
-            "resources": [
-                "Магические кристаллы",
-                "Священные свитки",
-                "Эфирная пыль"
-            ]
         }
-    ]
 } 
