@@ -31,6 +31,22 @@
                 "Священные свитки",
                 "Эфирная пыль"
             ]
+        },
+        {
+            "name": "Генштаб Акретия",
+            "description": "Центр управления расы Кора. Место, где принимаются все важные решения.",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Location/accretia_hq.png",
+            "recommendedLevel": 1,
+            "mobs": [
+                "Страж Кора",
+                "Жрец Кора",
+                "Боевой голем"
+            ],
+            "resources": [
+                "Магические кристаллы",
+                "Священные свитки",
+                "Эфирная пыль"
+            ]
         }
     ]
 } 
