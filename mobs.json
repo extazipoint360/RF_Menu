@@ -42,6 +42,36 @@
                     }
                 }
             ]
+        },
+        {
+            "name": "Лесной Волк",
+            "iconPath": "Wiki/Mobs/forest_wolf.png",
+            "location": {
+                "name": "Темный Лес",
+                "coordinates": "X: 150, Y: 200"
+            },
+            "drops": [
+                {
+                    "name": "Волчья Шкура",
+                    "description": "Шкура лесного волка",
+                    "category": "Ресурсы",
+                    "iconPath": "Wiki/Items/wolf_pelt.png",
+                    "stats": {
+                        "itemClass": "Материал",
+                        "dropChance": "75%"
+                    }
+                },
+                {
+                    "name": "Клык Волка",
+                    "description": "Острый клык лесного волка",
+                    "category": "Ресурсы",
+                    "iconPath": "Wiki/Items/wolf_fang.png",
+                    "stats": {
+                        "itemClass": "Материал",
+                        "dropChance": "25%"
+                    }
+                }
+            ]
         }
     ]
 } 

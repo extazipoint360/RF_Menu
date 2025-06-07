@@ -3,7 +3,7 @@
         {
             "name": "Темный Лес",
             "description": "Древний лес, полный опасных существ и ценных ресурсов",
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/locations/accretia_hq.png",
+            "iconPath": "Wiki/Maps/dark_forest.png",
             "recommendedLevel": 5,
             "mobPoints": [
                 {
@@ -11,13 +11,13 @@
                     "y": 0.4,
                     "mob": {
                         "name": "Лесной Волк",
-                        "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Monster/00100.png",
+                        "iconPath": "Wiki/Mobs/forest_wolf.png",
                         "drops": [
                             {
                                 "name": "Волчья Шкура",
                                 "description": "Шкура лесного волка",
                                 "category": "Ресурсы",
-                                "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/upgrade.png",
+                                "iconPath": "Wiki/Items/wolf_pelt.png",
                                 "stats": {
                                     "itemClass": "Материал",
                                     "dropChance": "75%"
@@ -27,7 +27,7 @@
                                 "name": "Клык Волка",
                                 "description": "Острый клык лесного волка",
                                 "category": "Ресурсы",
-                                "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_0.png",
+                                "iconPath": "Wiki/Items/wolf_fang.png",
                                 "stats": {
                                     "itemClass": "Материал",
                                     "dropChance": "25%"
@@ -63,5 +63,39 @@
                 "Лечебные травы",
                 "Грибы"
             ]
+        },
+        {
+            "name": "Пещеры Отчаяния",
+            "description": "Глубокие пещеры с редкими минералами и опасными существами",
+            "iconPath": "Wiki/Maps/despair_caves.png",
+            "recommendedLevel": 15,
+            "mobPoints": [
+                {
+                    "x": 0.4,
+                    "y": 0.5,
+                    "mob": {
+                        "name": "Пещерный Паук",
+                        "iconPath": "Wiki/Mobs/cave_spider.png",
+                        "drops": [
+                            {
+                                "name": "Паучий Шелк",
+                                "description": "Прочный шелк пещерного паука",
+                                "category": "Ресурсы",
+                                "iconPath": "Wiki/Items/spider_silk.png",
+                                "stats": {
+                                    "itemClass": "Материал",
+                                    "dropChance": "60%"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ],
+            "resources": [
+                "Мифрил",
+                "Кристаллы маны",
+                "Светящиеся грибы"
+            ]
         }
+    ]
 } 
