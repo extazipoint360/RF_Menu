@@ -1,77 +1,75 @@
 {
     "mobs": [
         {
-            "name": "Фем",
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Monster/00000.png",
+            "mobName": "Древний Дракон",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/mobs/ancient_dragon.png",
             "location": {
-                "name": "Ген-Штаб",
-                "coordinates": "X: 1250, Y: 850"
+                "locationName": "Драконье Логово",
+                "coordinates": "X: 1500, Y: 2000"
             },
             "drops": [
                 {
-                    "name": "Частица Золотого Клинка",
-                    "description": "Редкий материал, добываемый только с особых монстров. Необходим для создания легендарного оружия.",
-                    "category": "Ресурсы",
-                    "isUnlocked": true,
-                    "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Resource/golden_blade_particle.png",
+                    "name": "Чешуя Дракона",
+                    "description": "Редкий материал для крафта",
+                    "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/items/dragon_scale.png",
                     "stats": {
-                        "type": "MOB_DROP",
-                        "itemClass": "Редкий ресурс",
-                        "dropChance": "50%"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "Механический страж",
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Monster/00001.png",
-            "location": {
-                "name": "Фабрика роботов",
-                "coordinates": "X: 800, Y: 600"
-            },
-            "drops": [
-                {
-                    "name": "Энергетическое ядро",
-                    "description": "Источник питания механических существ. Излучает стабильную энергию.",
-                    "category": "Ресурсы",
-                    "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Resource/power_crystal.png",
-                    "stats": {
-                        "type": "MOB_DROP",
-                        "itemClass": "Компонент",
-                        "dropChance": "25%"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "Лесной Волк",
-            "iconPath": "Wiki/Mobs/forest_wolf.png",
-            "location": {
-                "name": "Темный Лес",
-                "coordinates": "X: 150, Y: 200"
-            },
-            "drops": [
-                {
-                    "name": "Волчья Шкура",
-                    "description": "Шкура лесного волка",
-                    "category": "Ресурсы",
-                    "iconPath": "Wiki/Items/wolf_pelt.png",
-                    "stats": {
+                        "type": "RESOURCE",
                         "itemClass": "Материал",
-                        "dropChance": "75%"
+                        "quantity": 1,
+                        "restrictions": {
+                            "canSell": true,
+                            "canTrade": true,
+                            "canDrop": true,
+                            "canBank": true,
+                            "storagePrice": 500
+                        }
                     }
                 },
                 {
-                    "name": "Клык Волка",
-                    "description": "Острый клык лесного волка",
-                    "category": "Ресурсы",
-                    "iconPath": "Wiki/Items/wolf_fang.png",
+                    "name": "Сердце Дракона",
+                    "description": "Легендарный материал",
+                    "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/items/dragon_heart.png",
                     "stats": {
+                        "type": "RESOURCE",
+                        "itemClass": "Редкий материал",
+                        "quantity": 1,
+                        "restrictions": {
+                            "canSell": true,
+                            "canTrade": false,
+                            "canDrop": false,
+                            "canBank": true,
+                            "storagePrice": 1000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "mobName": "Ледяной Гигант",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/mobs/ice_giant.png",
+            "location": {
+                "locationName": "Ледяные Пустоши",
+                "coordinates": "X: 800, Y: 1200"
+            },
+            "drops": [
+                {
+                    "name": "Замерзшее Ядро",
+                    "description": "Источник вечного холода",
+                    "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/items/frozen_core.png",
+                    "stats": {
+                        "type": "RESOURCE",
                         "itemClass": "Материал",
-                        "dropChance": "25%"
+                        "quantity": 1,
+                        "restrictions": {
+                            "canSell": true,
+                            "canTrade": true,
+                            "canDrop": true,
+                            "canBank": true,
+                            "storagePrice": 300
+                        }
                     }
                 }
             ]
         }
     ]
-} 
+}
