@@ -3,7 +3,7 @@
         {
             "name": "Темный Лес",
             "description": "Древний лес, полный опасных существ и ценных ресурсов",
-            "iconPath": "Wiki/Maps/dark_forest.png",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/locations/accretia_hq.png",
             "recommendedLevel": 5,
             "mobPoints": [
                 {
@@ -11,13 +11,13 @@
                     "y": 0.4,
                     "mob": {
                         "name": "Лесной Волк",
-                        "iconPath": "Wiki/Mobs/forest_wolf.png",
+                        "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Monster/00000.png",
                         "drops": [
                             {
                                 "name": "Волчья Шкура",
                                 "description": "Шкура лесного волка",
                                 "category": "Ресурсы",
-                                "iconPath": "Wiki/Items/wolf_pelt.png",
+                                "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Monster/00000.png",
                                 "stats": {
                                     "itemClass": "Материал",
                                     "dropChance": "75%"
@@ -27,7 +27,7 @@
                                 "name": "Клык Волка",
                                 "description": "Острый клык лесного волка",
                                 "category": "Ресурсы",
-                                "iconPath": "Wiki/Items/wolf_fang.png",
+                                "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/locations/accretia_hq.png",
                                 "stats": {
                                     "itemClass": "Материал",
                                     "dropChance": "25%"
@@ -41,7 +41,7 @@
                     "y": 0.6,
                     "mob": {
                         "name": "Древний Медведь",
-                        "iconPath": "Wiki/Mobs/ancient_bear.png",
+                        "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/locations/accretia_hq.png",
                         "drops": [
                             {
                                 "name": "Медвежья Шкура",
