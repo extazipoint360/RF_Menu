@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "serverInfo": {
         "name": "Rising Force Online",
         "description": "Добро пожаловать на наш сервер!\nУ нас вы найдете:\n- Уникальный контент\n- Регулярные обновления\n- Дружелюбное сообщество\n- Честную экономику",
@@ -11,16 +10,5 @@
             "vk": "https://vk.com/server",
             "telegram": "https://t.me/server"
         }
-=======
-    "name": "RF ONLINE",
-    "description": "",
-    "bannerPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Banner/server_banner_shablone.png"
-    "links": {
-        "forum": "https://magicrust.ru/forum",
-        "cabinet": "https://magicrust.ru/cabinet",
-        "discord": "https://discord.gg/magicrust",
-        "vk": "https://vk.com/magicrust",
-        "telegram": "https://t.me/magicrust"
->>>>>>> 3535884a5dd6ea97f7abc6772cbf967ba407bfdd
     }
 } 
