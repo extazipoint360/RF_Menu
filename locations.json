@@ -1,6 +1,22 @@
 {
     "locations": [
         {
+            "name": "Забытые Руины",
+            "description": "Древние руины, наполненные опасными существами и ценными сокровищами",
+            "iconPath": "https://raw.githubusercontent.com/wiki/locations/forgotten_ruins.png",
+            "recommendedLevel": 45,
+            "mobs": [
+                "Древний Голем",
+                "Каменный Страж",
+                "Призрак Руин"
+            ],
+            "resources": [
+                "Древний Камень",
+                "Кристаллы Силы",
+                "Руны Предков"
+            ]
+        },
+        {
             "name": "Драконье Логово",
             "description": "Древнее логово драконов, наполненное опасностями и сокровищами",
             "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/locations/dragon_lair.png",
@@ -49,4 +65,4 @@
             ]
         }
     ]
-}
+} 

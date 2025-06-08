@@ -70,6 +70,35 @@
                     }
                 }
             ]
+        },
+        {
+            "mobName": "Древний Голем",
+            "iconPath": "https://raw.githubusercontent.com/wiki/mobs/ancient_golem.png",
+            "location": {
+                "locationName": "Забытые Руины",
+                "coordinates": "X: 1250, Y: 850"
+            },
+            "drops": [
+                {
+                    "name": "Сердце Голема",
+                    "description": "Редкий компонент для крафта",
+                    "category": "Ресурсы",
+                    "isUnlocked": true,
+                    "iconPath": "https://raw.githubusercontent.com/wiki/items/golem_heart.png",
+                    "stats": {
+                        "type": "RESOURCE",
+                        "itemClass": "Компонент",
+                        "quantity": 1,
+                        "restrictions": {
+                            "canSell": true,
+                            "canTrade": true,
+                            "canDrop": true,
+                            "canBank": true,
+                            "storagePrice": 500
+                        }
+                    }
+                }
+            ]
         }
     ]
-}
+} 
