@@ -2,13 +2,6 @@
     "serverInfo": {
         "name": "Rising Force Online",
         "description": "Добро пожаловать на наш сервер!\nУ нас вы найдете:\n- Уникальный контент\n- Регулярные обновления\n- Дружелюбное сообщество\n- Честную экономику",
-        "bannerPath": "https://raw.githubusercontent.com/wiki/server/banner.png",
-        "links": {
-            "forum": "https://forum.server.com",
-            "cabinet": "https://lk.server.com",
-            "discord": "https://discord.gg/server",
-            "vk": "https://vk.com/server",
-            "telegram": "https://t.me/server"
-        }
+        "bannerPath": "https://raw.githubusercontent.com/wiki/server/banner.png"
     }
 } 
