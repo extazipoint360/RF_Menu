@@ -1,5 +1,5 @@
 {
-"weapons": [
+  "weapons": [
     {
       "name": "Двойные Мечи Восставшего",
       "description": "-",
@@ -9,6 +9,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "102",
+        "grade": 0,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -42,6 +43,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "271",
+        "grade": 0,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -75,6 +77,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
+        "grade": 0,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -108,6 +111,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
+        "grade": 0,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -141,6 +145,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "103",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -174,6 +179,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "101",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -207,6 +213,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "107",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -240,6 +247,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "267",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -273,6 +281,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -306,6 +315,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "270",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -339,6 +349,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "110",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -372,6 +383,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "116",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -405,6 +417,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -438,6 +451,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "120",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -471,6 +485,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "105",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -504,6 +519,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "103",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -537,6 +553,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "101",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -570,6 +587,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "107",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -603,6 +621,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "267",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -636,6 +655,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -669,6 +689,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "270",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -702,6 +723,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "271",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -735,6 +757,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "116",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -768,6 +791,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -801,6 +825,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "120",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -834,6 +859,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "105",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -867,6 +893,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "103",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -900,6 +927,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "101",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -933,6 +961,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "107",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -966,6 +995,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "267",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -999,6 +1029,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1032,6 +1063,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "270",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1065,6 +1097,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "271",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1098,6 +1131,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "116",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1131,6 +1165,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1164,6 +1199,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "120",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1197,6 +1233,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "105",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1230,6 +1267,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "108",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1254,224 +1292,5 @@
         }
       }
     }
-  ],
-    "armor": [
-        {
-            "name": "Доспех Титана",
-            "description": "Тяжелая броня из сверхпрочных материалов",
-            "category": "Броня",
-            "isUnlocked": true,
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Armor/img_01.png",
-            "stats": {
-                "type": "EQUIPMENT",
-                "itemClass": "Тяжелая броня",
-                "requiredLevel": 70,
-                "equipSlot": "Тело",
-                "race": "Акретия",
-                "durability": "150/150",
-                "effects": [
-                    "Защита +350",
-                    "Сопротивление стихиям +20"
-                ],
-                "upgrades": ["Отражение урона +5%"],
-                "restrictions": {
-                    "canSell": true,
-                    "canTrade": true,
-                    "canDrop": true,
-                    "canBank": true,
-                    "storagePrice": 4500
-                }
-            }
-        },
-        {
-            "name": "Роба Архимага",
-            "description": "Магическая роба, усиливающая заклинания",
-            "category": "Броня",
-            "isUnlocked": true,
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Armor/img_02.png",
-            "stats": {
-                "type": "EQUIPMENT",
-                "itemClass": "Легкая броня",
-                "requiredLevel": 65,
-                "equipSlot": "Тело",
-                "race": "Беллато",
-                "durability": "100/100",
-                "effects": [
-                    "Магическая защита +250",
-                    "Восстановление маны +30%"
-                ],
-                "upgrades": [],
-                "restrictions": {
-                    "canSell": true,
-                    "canTrade": true,
-                    "canDrop": true,
-                    "canBank": true,
-                    "storagePrice": 4000
-                }
-            }
-        },
-        {
-            "name": "Кираса Драконоборца",
-            "description": "Броня, выкованная из чешуи древнего дракона",
-            "category": "Броня",
-            "isUnlocked": true,
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Armor/img_03.png",
-            "stats": {
-                "type": "EQUIPMENT",
-                "itemClass": "Средняя броня",
-                "requiredLevel": 75,
-                "equipSlot": "Тело",
-                "race": "Кора",
-                "durability": "120/120",
-                "effects": [
-                    "Защита +300",
-                    "Сопротивление огню +40%"
-                ],
-                "upgrades": [],
-                "restrictions": {
-                    "canSell": true,
-                    "canTrade": true,
-                    "canDrop": true,
-                    "canBank": true,
-                    "storagePrice": 5000
-                }
-            }
-        }
-    ],
-    "shields": [
-        {
-            "name": "Щит Бастиона",
-            "description": "Непробиваемый щит древних защитников",
-            "category": "Щиты",
-            "isUnlocked": true,
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Shield/img_01.png",
-            "stats": {
-                "type": "EQUIPMENT",
-                "itemClass": "Тяжелый щит",
-                "requiredLevel": 70,
-                "equipSlot": "Левая Рука",
-                "race": "Все расы",
-                "durability": "200/200",
-                "effects": [
-                    "Блокирование +40%",
-                    "Защита +200"
-                ],
-                "upgrades": [],
-                "restrictions": {
-                    "canSell": true,
-                    "canTrade": true,
-                    "canDrop": true,
-                    "canBank": true,
-                    "storagePrice": 4000
-                }
-            }
-        }
-    ],
-    "antigrav": [
-        {
-            "name": "Крылья Ветра",
-            "description": "Высокоскоростной антиграв с улучшенной маневренностью",
-            "category": "Антиграв",
-            "isUnlocked": true,
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Antigrav/img_01.png",
-            "stats": {
-                "type": "EQUIPMENT",
-                "itemClass": "Антиграв",
-                "requiredLevel": 60,
-                "equipSlot": "Антиграв",
-                "race": "Все расы",
-                "durability": "100/100",
-                "effects": [
-                    "Скорость полета +30%",
-                    "Расход энергии -20%"
-                ],
-                "upgrades": [],
-                "restrictions": {
-                    "canSell": true,
-                    "canTrade": true,
-                    "canDrop": true,
-                    "canBank": true,
-                    "storagePrice": 3500
-                }
-            }
-        }
-    ],
-    "jewelry": [
-        {
-            "name": "Амулет Мудрости",
-            "description": "Древний амулет, усиливающий магические способности",
-            "category": "Бижутерия",
-            "isUnlocked": true,
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Jewelry/img_01.png",
-            "stats": {
-                "type": "EQUIPMENT",
-                "itemClass": "Амулет",
-                "requiredLevel": 65,
-                "equipSlot": "Шея",
-                "race": "Все расы",
-                "durability": "50/50",
-                "effects": [
-                    "Интеллект +30",
-                    "Восстановление маны +20%"
-                ],
-                "upgrades": [],
-                "restrictions": {
-                    "canSell": true,
-                    "canTrade": true,
-                    "canDrop": true,
-                    "canBank": true,
-                    "storagePrice": 3000
-                }
-            }
-        }
-    ],
-    "animus": [
-        {
-            "name": "Дух Феникса",
-            "description": "Могущественный анимус возрождения",
-            "category": "Анимусы",
-            "isUnlocked": true,
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Animus/img_01.png",
-            "stats": {
-                "type": "EQUIPMENT",
-                "itemClass": "Анимус",
-                "requiredLevel": 80,
-                "equipSlot": "Анимус",
-                "race": "Все расы",
-                "effects": [
-                    "Возрождение раз в 30 минут",
-                    "Огненная аура"
-                ],
-                "upgrades": [],
-                "restrictions": {
-                    "canSell": true,
-                    "canTrade": false,
-                    "canDrop": false,
-                    "canBank": true,
-                    "storagePrice": 6000
-                }
-            }
-        }
-    ],
-    "resources": [
-        {
-            "name": "Кристалл Силы",
-            "description": "Редкий кристалл для улучшения оружия",
-            "category": "Ресурсы",
-            "isUnlocked": true,
-            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Resource/img_01.png",
-            "stats": {
-                "type": "RESOURCE",
-                "itemClass": "Материал",
-                "quantity": 1,
-                "restrictions": {
-                    "canSell": true,
-                    "canTrade": true,
-                    "canDrop": true,
-                    "canBank": true,
-                    "storagePrice": 1000
-                }
-            }
-        }
-    ]
-} 
+  ]
+}
