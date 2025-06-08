@@ -1,0 +1,68 @@
+{
+    "locations": [
+        {
+            "description": "Древние руины, наполненные опасными существами и ценными сокровищами",
+            "iconPath": "https://raw.githubusercontent.com/wiki/locations/forgotten_ruins.png",
+            "mobs": [
+                "Древний Голем",
+                "Каменный Страж",
+                "Призрак Руин"
+            ],
+            "name": "Забытые Руины",
+            "recommendedLevel": 45,
+            "resources": [
+                "Древний Камень",
+                "Кристаллы Силы",
+                "Руны Предков"
+            ]
+        },
+        {
+            "description": "Древнее логово драконов, наполненное опасностями и сокровищами",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/locations/dragon_lair.png",
+            "mobs": [
+                "Древний Дракон",
+                "Драконий Страж",
+                "Драконье Отродье"
+            ],
+            "name": "Драконье Логово",
+            "recommendedLevel": 50,
+            "resources": [
+                "Драконья Руда",
+                "Кристаллы Силы",
+                "Древние Артефакты"
+            ]
+        },
+        {
+            "description": "Бескрайние снежные равнины, где властвует вечный холод",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/locations/ice_wastes.png",
+            "mobs": [
+                "Ледяной Гигант",
+                "Снежный Волк",
+                "Морозный Элементаль"
+            ],
+            "name": "Ледяные Пустоши",
+            "recommendedLevel": 35,
+            "resources": [
+                "Вечный Лед",
+                "Замерзшая Руда",
+                "Кристаллы Холода"
+            ]
+        },
+        {
+            "description": "Древний лес, полный магии и таинственных существ",
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/locations/mystic_forest.png",
+            "mobs": [
+                "Лесной Страж",
+                "Древний Энт",
+                "Лесная Нимфа"
+            ],
+            "name": "Мистический Лес",
+            "recommendedLevel": 20,
+            "resources": [
+                "Древесина Энтов",
+                "Магические Грибы",
+                "Священные Цветы"
+            ]
+        }
+    ]
+}

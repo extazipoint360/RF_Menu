@@ -1,0 +1,104 @@
+{
+    "mobs": [
+        {
+            "drops": [
+                {
+                    "description": "Редкий материал для крафта",
+                    "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/items/dragon_scale.png",
+                    "name": "Чешуя Дракона",
+                    "stats": {
+                        "itemClass": "Материал",
+                        "quantity": 1,
+                        "restrictions": {
+                            "canBank": true,
+                            "canDrop": true,
+                            "canSell": true,
+                            "canTrade": true,
+                            "storagePrice": 500
+                        },
+                        "type": "RESOURCE"
+                    }
+                },
+                {
+                    "description": "Легендарный материал",
+                    "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/items/dragon_heart.png",
+                    "name": "Сердце Дракона",
+                    "stats": {
+                        "itemClass": "Редкий материал",
+                        "quantity": 1,
+                        "restrictions": {
+                            "canBank": true,
+                            "canDrop": false,
+                            "canSell": true,
+                            "canTrade": false,
+                            "storagePrice": 1000
+                        },
+                        "type": "RESOURCE"
+                    }
+                }
+            ],
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/mobs/ancient_dragon.png",
+            "location": {
+                "coordinates": "X: 1500, Y: 2000",
+                "locationName": "Драконье Логово"
+            },
+            "mobName": "Древний Дракон"
+        },
+        {
+            "drops": [
+                {
+                    "description": "Источник вечного холода",
+                    "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/items/frozen_core.png",
+                    "name": "Замерзшее Ядро",
+                    "stats": {
+                        "itemClass": "Материал",
+                        "quantity": 1,
+                        "restrictions": {
+                            "canBank": true,
+                            "canDrop": true,
+                            "canSell": true,
+                            "canTrade": true,
+                            "storagePrice": 300
+                        },
+                        "type": "RESOURCE"
+                    }
+                }
+            ],
+            "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/main/images/mobs/ice_giant.png",
+            "location": {
+                "coordinates": "X: 800, Y: 1200",
+                "locationName": "Ледяные Пустоши"
+            },
+            "mobName": "Ледяной Гигант"
+        },
+        {
+            "drops": [
+                {
+                    "category": "Ресурсы",
+                    "description": "Редкий компонент для крафта",
+                    "iconPath": "https://raw.githubusercontent.com/wiki/items/golem_heart.png",
+                    "isUnlocked": true,
+                    "name": "Сердце Голема",
+                    "stats": {
+                        "itemClass": "Компонент",
+                        "quantity": 1,
+                        "restrictions": {
+                            "canBank": true,
+                            "canDrop": true,
+                            "canSell": true,
+                            "canTrade": true,
+                            "storagePrice": 500
+                        },
+                        "type": "RESOURCE"
+                    }
+                }
+            ],
+            "iconPath": "https://raw.githubusercontent.com/wiki/mobs/ancient_golem.png",
+            "location": {
+                "coordinates": "X: 1250, Y: 850",
+                "locationName": "Забытые Руины"
+            },
+            "mobName": "Древний Голем"
+        }
+    ]
+}
