@@ -1,1296 +1,304 @@
 {
   "weapons": [
     {
-      "name": "Двойные Мечи Восставшего",
-      "description": "-",
+      "name": "Обычный Меч",
+      "description": "Стандартное оружие для начинающих",
       "category": "Оружие",
       "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_187.png",
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1001.png",
       "stats": {
         "type": "EQUIPMENT",
-        "itemClass": "102",
+        "itemClass": "Меч",
         "grade": 0,
-        "requiredLevel": 65,
+        "requiredLevel": 1,
         "equipSlot": "Правая Рука",
         "race": "0",
         "requiredSkill": "1",
-        "durability": "-",
-        "minDamage": 730,
-        "maxDamage": 1403,
+        "durability": "100/100",
+        "minDamage": 10,
+        "maxDamage": 15,
         "magicDamage": 0,
         "element": "-1",
-        "effects": [
-          "12"
-        ],
-        "upgrades": [
-          "0"
-        ],
+        "effects": [],
+        "upgrades": [],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": 4087
+          "storagePrice": 100
         }
       }
     },
     {
-      "name": "Лук Восставшего",
-      "description": "-",
+      "name": "Желтый Клинок Удачи",
+      "description": "Редкое оружие с бонусом к удаче",
       "category": "Оружие",
       "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_122.png",
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1002.png",
       "stats": {
         "type": "EQUIPMENT",
-        "itemClass": "271",
-        "grade": 0,
-        "requiredLevel": 65,
+        "itemClass": "Меч",
+        "grade": 1,
+        "requiredLevel": 20,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "1",
-        "durability": "-",
-        "minDamage": 583,
-        "maxDamage": 1179,
-        "magicDamage": 0,
-        "element": "A",
-        "effects": [
-          "12"
-        ],
-        "upgrades": [
-          "0"
-        ],
+        "requiredSkill": "20",
+        "durability": "100/100",
+        "minDamage": 30,
+        "maxDamage": 45,
+        "magicDamage": 10,
+        "element": "1",
+        "effects": ["Удача +5"],
+        "upgrades": [],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": 4087
+          "storagePrice": 500
         }
       }
     },
     {
-      "name": "Посох Восставшего",
-      "description": "-",
+      "name": "Фиолетовый Разрушитель",
+      "description": "Мощное оружие с высоким уроном",
       "category": "Оружие",
       "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_89.png",
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1003.png",
       "stats": {
         "type": "EQUIPMENT",
-        "itemClass": "269",
-        "grade": 0,
-        "requiredLevel": 65,
+        "itemClass": "Двуручный Меч",
+        "grade": 2,
+        "requiredLevel": 40,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "1",
-        "durability": "-",
-        "minDamage": 64,
-        "maxDamage": 90,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "12"
-        ],
-        "upgrades": [
-          "0"
-        ],
+        "requiredSkill": "40",
+        "durability": "100/100",
+        "minDamage": 80,
+        "maxDamage": 120,
+        "magicDamage": 25,
+        "element": "2",
+        "effects": ["Сила +10", "Критический удар +5%"],
+        "upgrades": [],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": 4087
+          "storagePrice": 1000
         }
       }
     },
     {
-      "name": "Ракетомет Восставшего",
-      "description": "-",
+      "name": "Оранжевый Клинок Стихий",
+      "description": "Легендарное оружие с элементальным уроном",
       "category": "Оружие",
       "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_154.png",
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1004.png",
       "stats": {
         "type": "EQUIPMENT",
-        "itemClass": "114",
-        "grade": 0,
-        "requiredLevel": 65,
+        "itemClass": "Меч",
+        "grade": 3,
+        "requiredLevel": 60,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "1",
-        "durability": "-",
-        "minDamage": 720,
-        "maxDamage": 1570,
-        "magicDamage": 0,
-        "element": "I",
-        "effects": [
-          "12"
-        ],
-        "upgrades": [
-          "0"
-        ],
+        "requiredSkill": "60",
+        "durability": "100/100",
+        "minDamage": 150,
+        "maxDamage": 200,
+        "magicDamage": 50,
+        "element": "3",
+        "effects": ["Элементальный урон +20%", "Все характеристики +10"],
+        "upgrades": ["Слот улучшения"],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": 4087
+          "storagePrice": 2000
         }
       }
     },
     {
-      "name": "Боевая Искра",
-      "description": "-",
+      "name": "Темно-синий Клинок Мудрости",
+      "description": "Древнее оружие мудрецов",
       "category": "Оружие",
       "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_11.png",
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1005.png",
       "stats": {
         "type": "EQUIPMENT",
-        "itemClass": "103",
-        "grade": 9,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 815,
-        "maxDamage": 1138,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Боевой Посланник Тьмы",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_27.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "101",
-        "grade": 9,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1147,
-        "maxDamage": 1611,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Боевой Крушитель",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_39.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "107",
-        "grade": 9,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1108,
-        "maxDamage": 1520,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Боевой Титан",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_64.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "267",
-        "grade": 9,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1160,
-        "maxDamage": 1486,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Боевая Песня Тьмы",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_89.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "269",
-        "grade": 9,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 66,
-        "maxDamage": 88,
-        "magicDamage": 1,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Боевой Коготь Дракона",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_102.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "270",
-        "grade": 9,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 912,
-        "maxDamage": 1753,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Боевые Кровавые Слезы",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_122.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "110",
-        "grade": 9,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 742,
-        "maxDamage": 1476,
-        "magicDamage": 0,
-        "element": "A",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Боевой Зов Смерти",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_132.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "116",
-        "grade": 9,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 713,
-        "maxDamage": 1477,
-        "magicDamage": 0,
-        "element": "G",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Боевое Дыхание Дракона",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_154.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "114",
-        "grade": 9,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 885,
-        "maxDamage": 1962,
-        "magicDamage": 0,
-        "element": "I",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Боевой Реактивный Гранатомет",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_180.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "120",
-        "grade": 9,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "-",
-        "minDamage": 742,
-        "maxDamage": 1476,
-        "magicDamage": 0,
-        "element": "L",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Боевое Крыло Смерти",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_164.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "105",
-        "grade": 9,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 770,
-        "maxDamage": 1240,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Двустороннее Лезвие Леоноваса",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_207.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "103",
-        "grade": 6,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1180,
-        "maxDamage": 1554,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Поглотитель Душ Леоноваса",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_208.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "101",
-        "grade": 6,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1699,
-        "maxDamage": 2153,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Бронебой Леоноваса",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_209.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "107",
-        "grade": 6,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1584,
-        "maxDamage": 2068,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Балтин Леоноваса",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_211.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "267",
-        "grade": 6,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1584,
-        "maxDamage": 2068,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Божественное Ядро Леоноваса",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_213.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "269",
-        "grade": 6,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 87,
-        "maxDamage": 117,
-        "magicDamage": 1,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Возмездие Леоноваса",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_214.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "270",
-        "grade": 6,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1484,
-        "maxDamage": 2280,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Альдебаран Леоноваса",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_215.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "271",
-        "grade": 6,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1025,
-        "maxDamage": 2044,
-        "magicDamage": 0,
-        "element": "C",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Двойной Удар Леоноваса",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_217.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "116",
-        "grade": 6,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1021,
-        "maxDamage": 2045,
-        "magicDamage": 0,
-        "element": "G",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Ревантейн Леоноваса",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_222.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "114",
-        "grade": 6,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1025,
-        "maxDamage": 2044,
-        "magicDamage": 0,
-        "element": "J",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Грантомет Леоноваса",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_181.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "120",
-        "grade": 6,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "-",
-        "minDamage": 1265,
-        "maxDamage": 2714,
-        "magicDamage": 0,
-        "element": "O",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Метательный Нож Леоноваса",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_167.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "105",
-        "grade": 6,
-        "requiredLevel": 65,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1078,
-        "maxDamage": 1717,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Запретный Световой Меч",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_228.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "103",
+        "itemClass": "Посох",
         "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1559,
-        "maxDamage": 2036,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
+        "requiredSkill": "70",
+        "durability": "100/100",
+        "minDamage": 180,
+        "maxDamage": 250,
+        "magicDamage": 100,
+        "element": "4",
+        "effects": ["Мудрость +20", "Магический урон +30%"],
+        "upgrades": ["Слот улучшения", "Слот зачарования"],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": 4087
+          "storagePrice": 3000
         }
       }
     },
     {
-      "name": "Запретный Энергомеч",
-      "description": "-",
+      "name": "Розовый Клинок Любви",
+      "description": "Магическое оружие с силой любви",
       "category": "Оружие",
       "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_229.png",
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1006.png",
       "stats": {
         "type": "EQUIPMENT",
-        "itemClass": "101",
-        "grade": 4,
-        "requiredLevel": 70,
+        "itemClass": "Меч",
+        "grade": 5,
+        "requiredLevel": 80,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 2244,
-        "maxDamage": 2806,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
+        "requiredSkill": "80",
+        "durability": "100/100",
+        "minDamage": 220,
+        "maxDamage": 300,
+        "magicDamage": 150,
+        "element": "5",
+        "effects": ["Харизма +30", "Исцеление +20%"],
+        "upgrades": ["Слот улучшения", "Слот зачарования"],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": 4087
+          "storagePrice": 4000
         }
       }
     },
     {
-      "name": "Запретная Боевая Секира",
-      "description": "-",
+      "name": "Светло-синий Клинок Льда",
+      "description": "Замороженное оружие вечной мерзлоты",
       "category": "Оружие",
       "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_230.png",
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1007.png",
       "stats": {
         "type": "EQUIPMENT",
-        "itemClass": "107",
-        "grade": 4,
-        "requiredLevel": 70,
+        "itemClass": "Меч",
+        "grade": 6,
+        "requiredLevel": 85,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 2070,
-        "maxDamage": 2714,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
+        "requiredSkill": "85",
+        "durability": "100/100",
+        "minDamage": 280,
+        "maxDamage": 350,
+        "magicDamage": 200,
+        "element": "6",
+        "effects": ["Ледяной урон +40%", "Заморозка цели"],
+        "upgrades": ["Слот улучшения", "Слот зачарования"],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": 4087
+          "storagePrice": 5000
         }
       }
     },
     {
-      "name": "Запретный Молот",
-      "description": "-",
+      "name": "Зеленый Клинок Природы",
+      "description": "Часть легендарного сета природы",
       "category": "Оружие",
       "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_231.png",
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1008.png",
       "stats": {
         "type": "EQUIPMENT",
-        "itemClass": "267",
-        "grade": 4,
-        "requiredLevel": 70,
+        "itemClass": "Меч",
+        "grade": 7,
+        "requiredLevel": 90,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 2070,
-        "maxDamage": 2714,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
+        "requiredSkill": "90",
+        "durability": "100/100",
+        "minDamage": 350,
+        "maxDamage": 450,
+        "magicDamage": 250,
+        "element": "7",
+        "effects": ["Сет: Природная мощь", "Природный урон +50%"],
+        "upgrades": ["Слот улучшения", "Слот зачарования", "Слот сета"],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": 4087
+          "storagePrice": 6000
         }
       }
     },
     {
-      "name": "Запретный Посох",
-      "description": "-",
+      "name": "Кремовый Клинок Света",
+      "description": "Священное оружие света",
       "category": "Оружие",
       "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_237.png",
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1009.png",
       "stats": {
         "type": "EQUIPMENT",
-        "itemClass": "269",
-        "grade": 4,
-        "requiredLevel": 70,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 86,
-        "maxDamage": 118,
-        "magicDamage": 1,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Священное Копье",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_232.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "270",
-        "grade": 4,
-        "requiredLevel": 70,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1960,
-        "maxDamage": 2980,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Запретный Лук",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_233.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "271",
-        "grade": 4,
-        "requiredLevel": 70,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1373,
-        "maxDamage": 2673,
-        "magicDamage": 0,
-        "element": "C",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Запретный Гатлинг",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_234.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "116",
-        "grade": 4,
-        "requiredLevel": 70,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1348,
-        "maxDamage": 2682,
-        "magicDamage": 0,
-        "element": "G",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Запретный Огнемет",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_235.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "114",
-        "grade": 4,
-        "requiredLevel": 70,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1538,
-        "maxDamage": 2380,
-        "magicDamage": 0,
-        "element": "J",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Запретный Гранатомет",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_238.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "120",
-        "grade": 4,
-        "requiredLevel": 70,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "-1",
-        "durability": "-",
-        "minDamage": 1730,
-        "maxDamage": 3540,
-        "magicDamage": 0,
-        "element": "O",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Запретное Крыло",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_236.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "105",
-        "grade": 4,
-        "requiredLevel": 70,
-        "equipSlot": "Правая Рука",
-        "race": "0",
-        "requiredSkill": "99",
-        "durability": "-",
-        "minDamage": 1217,
-        "maxDamage": 1930,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "6"
-        ],
-        "upgrades": [
-          "7"
-        ],
-        "restrictions": {
-          "canSell": true,
-          "canTrade": true,
-          "canDrop": true,
-          "canBank": true,
-          "storagePrice": 4087
-        }
-      }
-    },
-    {
-      "name": "Редкий Метательный Нож",
-      "description": "-",
-      "category": "Оружие",
-      "isUnlocked": true,
-      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_167.png",
-      "stats": {
-        "type": "EQUIPMENT",
-        "itemClass": "108",
+        "itemClass": "Меч",
         "grade": 9,
-        "requiredLevel": 65,
+        "requiredLevel": 95,
         "equipSlot": "Правая Рука",
         "race": "0",
-        "requiredSkill": "1",
-        "durability": "-",
-        "minDamage": 1,
-        "maxDamage": 2,
-        "magicDamage": 0,
-        "element": "-1",
-        "effects": [
-          "12"
-        ],
-        "upgrades": [
-          "0"
-        ],
+        "requiredSkill": "95",
+        "durability": "100/100",
+        "minDamage": 400,
+        "maxDamage": 500,
+        "magicDamage": 300,
+        "element": "8",
+        "effects": ["Святой урон +60%", "Благословение света"],
+        "upgrades": ["Слот улучшения", "Слот зачарования", "Слот света"],
         "restrictions": {
           "canSell": true,
           "canTrade": true,
           "canDrop": true,
           "canBank": true,
-          "storagePrice": 4087
+          "storagePrice": 7000
+        }
+      }
+    },
+    {
+      "name": "Красный Клинок Крови",
+      "description": "Проклятое оружие вампиров",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1010.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "Меч",
+        "grade": 10,
+        "requiredLevel": 100,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "100",
+        "durability": "100/100",
+        "minDamage": 500,
+        "maxDamage": 600,
+        "magicDamage": 350,
+        "element": "9",
+        "effects": ["Вампиризм 10%", "Кровавый урон +70%"],
+        "upgrades": ["Слот улучшения", "Слот зачарования", "Слот крови"],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 8000
         }
       }
     }
   ]
-}
+} 
