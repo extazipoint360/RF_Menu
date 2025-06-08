@@ -10,6 +10,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "102",
+        "grade": 0,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -44,6 +45,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "271",
+        "grade": 0,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -78,6 +80,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
+        "grade": 0,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -112,6 +115,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
+        "grade": 0,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -146,6 +150,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "103",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -180,6 +185,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "101",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -214,6 +220,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "107",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -248,6 +255,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "267",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -282,6 +290,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -316,6 +325,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "270",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -350,6 +360,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "110",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -384,6 +395,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "116",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -418,6 +430,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -452,6 +465,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "120",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -486,6 +500,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "105",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -520,6 +535,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "103",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -554,6 +570,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "101",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -588,6 +605,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "107",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -622,6 +640,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "267",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -656,6 +675,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -690,6 +710,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "270",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -724,6 +745,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "271",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -758,6 +780,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "116",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -792,6 +815,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -826,6 +850,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "120",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -860,6 +885,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "105",
+        "grade": 6,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -894,6 +920,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "103",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -928,6 +955,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "101",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -962,6 +990,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "107",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -996,6 +1025,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "267",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1030,6 +1060,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "269",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1064,6 +1095,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "270",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1098,6 +1130,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "271",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1132,6 +1165,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "116",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1166,6 +1200,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "114",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1200,6 +1235,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "120",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1234,6 +1270,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "105",
+        "grade": 4,
         "requiredLevel": 70,
         "equipSlot": "Правая Рука",
         "race": "0",
@@ -1268,6 +1305,7 @@
       "stats": {
         "type": "EQUIPMENT",
         "itemClass": "108",
+        "grade": 9,
         "requiredLevel": 65,
         "equipSlot": "Правая Рука",
         "race": "0",
