@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "categories": {
         "Оружие": [
             {
@@ -144,3 +145,308 @@
         ]
     }
 } 
+=======
+  "weapons": [
+    {
+      "name": "Обычный Меч",
+      "description": "Стандартное оружие для начинающих",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1001.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "Меч",
+        "grade": 0,
+        "requiredLevel": 1,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "1",
+        "durability": "100/100",
+        "minDamage": 10,
+        "maxDamage": 15,
+        "magicDamage": 0,
+        "element": "-1",
+        "effects": [],
+        "upgrades": [],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 100
+        }
+      }
+    },
+    {
+      "name": "Желтый Клинок Удачи",
+      "description": "Редкое оружие с бонусом к удаче",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1002.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "Меч",
+        "grade": 1,
+        "requiredLevel": 20,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "20",
+        "durability": "100/100",
+        "minDamage": 30,
+        "maxDamage": 45,
+        "magicDamage": 10,
+        "element": "1",
+        "effects": ["Удача +5"],
+        "upgrades": [],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 500
+        }
+      }
+    },
+    {
+      "name": "Фиолетовый Разрушитель",
+      "description": "Мощное оружие с высоким уроном",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1003.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "Двуручный Меч",
+        "grade": 2,
+        "requiredLevel": 40,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "40",
+        "durability": "100/100",
+        "minDamage": 80,
+        "maxDamage": 120,
+        "magicDamage": 25,
+        "element": "2",
+        "effects": ["Сила +10", "Критический удар +5%"],
+        "upgrades": [],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 1000
+        }
+      }
+    },
+    {
+      "name": "Оранжевый Клинок Стихий",
+      "description": "Легендарное оружие с элементальным уроном",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1004.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "Меч",
+        "grade": 3,
+        "requiredLevel": 60,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "60",
+        "durability": "100/100",
+        "minDamage": 150,
+        "maxDamage": 200,
+        "magicDamage": 50,
+        "element": "3",
+        "effects": ["Элементальный урон +20%", "Все характеристики +10"],
+        "upgrades": ["Слот улучшения"],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 2000
+        }
+      }
+    },
+    {
+      "name": "Темно-синий Клинок Мудрости",
+      "description": "Древнее оружие мудрецов",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1005.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "Посох",
+        "grade": 4,
+        "requiredLevel": 70,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "70",
+        "durability": "100/100",
+        "minDamage": 180,
+        "maxDamage": 250,
+        "magicDamage": 100,
+        "element": "4",
+        "effects": ["Мудрость +20", "Магический урон +30%"],
+        "upgrades": ["Слот улучшения", "Слот зачарования"],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 3000
+        }
+      }
+    },
+    {
+      "name": "Розовый Клинок Любви",
+      "description": "Магическое оружие с силой любви",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1006.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "Меч",
+        "grade": 5,
+        "requiredLevel": 80,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "80",
+        "durability": "100/100",
+        "minDamage": 220,
+        "maxDamage": 300,
+        "magicDamage": 150,
+        "element": "5",
+        "effects": ["Харизма +30", "Исцеление +20%"],
+        "upgrades": ["Слот улучшения", "Слот зачарования"],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 4000
+        }
+      }
+    },
+    {
+      "name": "Светло-синий Клинок Льда",
+      "description": "Замороженное оружие вечной мерзлоты",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1007.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "Меч",
+        "grade": 6,
+        "requiredLevel": 85,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "85",
+        "durability": "100/100",
+        "minDamage": 280,
+        "maxDamage": 350,
+        "magicDamage": 200,
+        "element": "6",
+        "effects": ["Ледяной урон +40%", "Заморозка цели"],
+        "upgrades": ["Слот улучшения", "Слот зачарования"],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 5000
+        }
+      }
+    },
+    {
+      "name": "Зеленый Клинок Природы",
+      "description": "Часть легендарного сета природы",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1008.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "Меч",
+        "grade": 7,
+        "requiredLevel": 90,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "90",
+        "durability": "100/100",
+        "minDamage": 350,
+        "maxDamage": 450,
+        "magicDamage": 250,
+        "element": "7",
+        "effects": ["Сет: Природная мощь", "Природный урон +50%"],
+        "upgrades": ["Слот улучшения", "Слот зачарования", "Слот сета"],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 6000
+        }
+      }
+    },
+    {
+      "name": "Кремовый Клинок Света",
+      "description": "Священное оружие света",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1009.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "Меч",
+        "grade": 9,
+        "requiredLevel": 95,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "95",
+        "durability": "100/100",
+        "minDamage": 400,
+        "maxDamage": 500,
+        "magicDamage": 300,
+        "element": "8",
+        "effects": ["Святой урон +60%", "Благословение света"],
+        "upgrades": ["Слот улучшения", "Слот зачарования", "Слот света"],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 7000
+        }
+      }
+    },
+    {
+      "name": "Красный Клинок Крови",
+      "description": "Проклятое оружие вампиров",
+      "category": "Оружие",
+      "isUnlocked": true,
+      "iconPath": "https://raw.githubusercontent.com/extazipoint360/RF_Menu/refs/heads/main/Wiki/Weapon/img_1010.png",
+      "stats": {
+        "type": "EQUIPMENT",
+        "itemClass": "Меч",
+        "grade": 10,
+        "requiredLevel": 100,
+        "equipSlot": "Правая Рука",
+        "race": "0",
+        "requiredSkill": "100",
+        "durability": "100/100",
+        "minDamage": 500,
+        "maxDamage": 600,
+        "magicDamage": 350,
+        "element": "9",
+        "effects": ["Вампиризм 10%", "Кровавый урон +70%"],
+        "upgrades": ["Слот улучшения", "Слот зачарования", "Слот крови"],
+        "restrictions": {
+          "canSell": true,
+          "canTrade": true,
+          "canDrop": true,
+          "canBank": true,
+          "storagePrice": 8000
+        }
+      }
+    }
+  ]
+} 
+>>>>>>> 3535884a5dd6ea97f7abc6772cbf967ba407bfdd
